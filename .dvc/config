@@ -1,0 +1,6 @@
+['remote "data"']
+url = /data
+[core]
+remote = locremote
+['remote "locremote"']
+url = /tmp/dvc-storage
